@@ -6,7 +6,7 @@ An interactive line chart drawn directly with SVG in React and TypeScript, with 
 
 - Scales, axis ticks, line path and filled area path are computed from scratch.
 - Hover or touch (pointer events) snaps to the nearest data point and shows a tooltip.
-- Pointer position is converted from screen pixels to SVG `viewbox` coordinates, so it stays correct when the chart is resized.
+- Pointer position is converted from screen pixels to SVG `viewBox` coordinates, so it stays correct when the chart is resized.
 - Accessible: `role="img"`, `aria-label` and an SVG `<title>`.
 
 ## Run it
